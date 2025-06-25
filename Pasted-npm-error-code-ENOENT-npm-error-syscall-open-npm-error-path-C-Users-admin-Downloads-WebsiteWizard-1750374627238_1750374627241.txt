@@ -1,0 +1,72 @@
+npm error code ENOENT
+npm error syscall open
+npm error path C:\Users\admin\Downloads\WebsiteWizard\package.json
+npm error errno -4058
+npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open 'C:\Users\admin\Downloads\WebsiteWizard\package.json'
+npm error enoent This is related to npm not being able to find a file.
+npm error enoent
+npm error A complete log of this run can be found in: C:\Users\admin\AppData\Local\npm-cache\_logs\2025-06-19T23_00_56_392Z-debug-0.log
+PS C:\Users\admin\Downloads\WebsiteWizard> npm --version
+11.3.0
+PS C:\Users\admin\Downloads\WebsiteWizard> npm i
+npm error code ENOENT
+npm error syscall open
+npm error path C:\Users\admin\Downloads\WebsiteWizard\package.json
+npm error errno -4058
+npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open 'C:\Users\admin\Downloads\WebsiteWizard\package.json'
+npm error enoent This is related to npm not being able to find a file.
+npm error enoent
+npm error A complete log of this run can be found in: C:\Users\admin\AppData\Local\npm-cache\_logs\2025-06-19T23_01_52_735Z-debug-0.log
+PS C:\Users\admin\Downloads\WebsiteWizard> npm install --prefix WebsiteWizard
+npm error code ENOENT
+npm error syscall open
+npm error path C:\Users\admin\Downloads\WebsiteWizard\package.json
+npm error errno -4058
+npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open 'C:\Users\admin\Downloads\WebsiteWizard\package.json'
+npm error enoent This is related to npm not being able to find a file.
+npm error enoent
+npm error A complete log of this run can be found in: C:\Users\admin\AppData\Local\npm-cache\_logs\2025-06-19T23_02_43_616Z-debug-0.log
+PS C:\Users\admin\Downloads\WebsiteWizard> npm install --prefix WebsiteWizard
+npm error code ENOENT
+npm error syscall open
+npm error path C:\Users\admin\Downloads\WebsiteWizard\package.json
+npm error errno -4058
+npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open 'C:\Users\admin\Downloads\WebsiteWizard\package.json'
+npm error enoent This is related to npm not being able to find a file.
+npm error enoent
+npm error A complete log of this run can be found in: C:\Users\admin\AppData\Local\npm-cache\_logs\2025-06-19T23_02_52_984Z-debug-0.log
+PS C:\Users\admin\Downloads\WebsiteWizard> npm install --prefix WebsiteWizard/WebsiteWizard
+npm error code ENOENT
+npm error syscall open
+npm error path C:\Users\admin\Downloads\WebsiteWizard\package.json
+o such file or directory, open 'C:\Users\admin\Downloads\WebsiteWizard\package.json'
+npm error enoent This is related to npm not being able to find a file.
+npm error enoent
+npm error A complete log of this run can be found in: C:\Users\admin\AppData\Local\npm-cache\_logs\2025-06-19T23_04_12_441Z-debug-0.log
+PS C:\Users\admin\Downloads\WebsiteWizard>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
